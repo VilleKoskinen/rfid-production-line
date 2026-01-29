@@ -1,0 +1,19 @@
+# Ignore Database files
+*.db
+*.sqlite
+
+# Ignore Secrets
+server/config.py
+
+# Ignore Python junk
+__pycache__/
+*.pyc
+venv/
+
+# Ignore Zephyr Build Artifacts
+firmware/build/
+.west/
+*.hex
+*.elf
+*.bin
+*.map
