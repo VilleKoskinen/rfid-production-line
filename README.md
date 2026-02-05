@@ -1,6 +1,6 @@
 # IoT Production Line Tracker (RFID & QR)
 
-An Industrial IoT (IIoT) solution designed to track manufacturing units through a multi-stage production line. This system combines low-level firmware for hardware tracking with a high-level web dashboard for real-time visualization.
+An Industrial IoT solution designed to track manufacturing units through a multi-stage production line. This system combines low-level firmware for hardware tracking with a high-level web dashboard for real-time visualization.
 
 System Architecture
 
