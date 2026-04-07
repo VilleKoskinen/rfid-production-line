@@ -6,7 +6,7 @@ System Architecture
 
 The system consists of two main components:
 
-1.  **Edge Nodes (Firmware):** nRF52840 microcontrollers running the **Zephyr RTOS**. These nodes interface with RFID scanners and QR code readers to detect units as they pass through various stages of the production line.
+1.  **Edge Nodes (Firmware):** nRF52840 microcontrollers running the **Zephyr RTOS**. These nodes interface with RFID scanners to detect units as they pass through various stages of the production line.
 2.  **Gateway & Dashboard (Server):** A **Raspberry Pi** (or PC) running a **Flask** web server. It collects data from the edge nodes, processes the production flow, and serves a real-time dashboard to visualize unit locations and bottlenecks.
 
 Project Structure
