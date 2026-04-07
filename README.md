@@ -11,7 +11,7 @@ The system consists of two main components:
 
 Project Structure
 
-*   **`/firmware`**: Zephyr-based C/C++ code for the nRF52840. Includes driver logic for RFID/QR modules and communication protocols.
+*   **`/firmware`**: Zephyr-based C/C++ code for the nRF52840. Includes driver logic for RFID modules and communication protocols.
 *   **`/server`**: Python-based Flask application. Includes API endpoints for data ingestion and the frontend dashboard templates.
 
 Tech Stack
